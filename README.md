@@ -35,7 +35,7 @@ See the [LICENSE](./LICENSE) file for more details.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone "https://github.com/QwertyFusion/web-scrapper-python.git"
+git clone "https://github.com/QwertyFusion/web-scraper-python.git"
 cd web-scrapper-python
 ```
 
